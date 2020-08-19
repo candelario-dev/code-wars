@@ -1,7 +1,7 @@
 # Code Wars Daily Challenges
 My solutions to 8kyu Fundamentals Katas at codewars.com.
 
-## New update every day from Monday to Friday.
+## New updates every day from Monday to Friday.
 
 ### The challenges are JavaScript challenges.
 
