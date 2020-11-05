@@ -1,5 +1,5 @@
 # Code Wars Daily Challenges
-My solutions to 8kyu Fundamentals Katas at codewars.com.
+My solutions to Javascript Katas at codewars.com.
 
 ## New updates every day from Monday to Friday.
 
